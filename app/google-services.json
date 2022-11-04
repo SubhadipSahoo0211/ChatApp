@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "719527531861",
+    "project_id": "chatapp-75db6",
+    "storage_bucket": "chatapp-75db6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719527531861:android:7aba5c979cd9429c4a4bdc",
+        "android_client_info": {
+          "package_name": "com.susahoo.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719527531861-n40jne34hrco8bh5nin9sfa5i01ignlb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.susahoo.chatapp",
+            "certificate_hash": "913f6f7e18b54ba22fdaaeb34ff87fd9888b1465"
+          }
+        },
+        {
+          "client_id": "719527531861-0usodcvk9ive9eghoocdjb1pb7j26fdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK9Jjs2Y6veh-4lYNQm-wsgMYQcG9XHYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719527531861-0usodcvk9ive9eghoocdjb1pb7j26fdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
