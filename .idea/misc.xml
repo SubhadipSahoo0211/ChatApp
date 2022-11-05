@@ -5,9 +5,13 @@
       <map>
         <entry key="..\:/Android Development Projects/ChatApp/app/src/main/res/drawable/btn_background.xml" value="0.1615" />
         <entry key="..\:/Android Development Projects/ChatApp/app/src/main/res/drawable/edt_background.xml" value="0.1615" />
+        <entry key="..\:/Android Development Projects/ChatApp/app/src/main/res/drawable/message_box_background.xml" value="0.149" />
+        <entry key="..\:/Android Development Projects/ChatApp/app/src/main/res/layout/activity_chat.xml" value="0.18385416666666668" />
         <entry key="..\:/Android Development Projects/ChatApp/app/src/main/res/layout/activity_log_in.xml" value="0.22" />
         <entry key="..\:/Android Development Projects/ChatApp/app/src/main/res/layout/activity_main.xml" value="0.18385416666666668" />
         <entry key="..\:/Android Development Projects/ChatApp/app/src/main/res/layout/activity_sign_up.xml" value="0.18385416666666668" />
+        <entry key="..\:/Android Development Projects/ChatApp/app/src/main/res/layout/receive.xml" value="0.18385416666666668" />
+        <entry key="..\:/Android Development Projects/ChatApp/app/src/main/res/layout/sent.xml" value="0.18385416666666668" />
         <entry key="..\:/Android Development Projects/ChatApp/app/src/main/res/layout/user_layout.xml" value="0.18385416666666668" />
         <entry key="..\:/Android Development Projects/ChatApp/app/src/main/res/menu/menu.xml" value="0.18385416666666668" />
       </map>
